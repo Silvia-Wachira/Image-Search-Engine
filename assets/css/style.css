@@ -4,20 +4,21 @@
     box-sizing: border-box;
 }
 body {
-    background: #39297b;
+    background: #4E4C67;
     color: #fff;
 }
 h1 {
     text-align: center;
     margin: 100px auto 50px;
     font-weight: 600;
+    font-size: 80px;
 }
 form{
     width: 90%;
     max-width: 600px;
     margin: auto;
     height: 80px;
-    background: #434989;
+    background: #A6B1E1;
     display: flex;
     align-items: center;
     border-radius: 8px;
@@ -35,7 +36,7 @@ form input {
 form button {
     padding: 0 40px;
     height: 100%;
-    background: #ff3929;
+    background: #985F6F;
     color: #fff;
     font-size: 18px;
     border: 0;
@@ -49,7 +50,7 @@ form button {
     font-size: 18px;
 }
 #show-more-btn {
-    background: #ff3929;
+    background: #985F6F;
     color: #fff;
     border: 0;
     outline: 0;
